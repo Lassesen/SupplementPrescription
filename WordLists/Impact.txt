@@ -1,0 +1,4 @@
++ : Increases Measurement / Improves Condition
+0 - No Change
+- - Decreases Measurement / Worsen Condition
+? - No report on trial (implies No Change)

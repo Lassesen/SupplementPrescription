@@ -1,0 +1,8 @@
+ICD   -  Name
+K58.0 - Irritable bowel syndrome
+K58.0 - Irritable bowel syndrome with diarrhea
+K58.1 - Irritable bowel syndrome with constipation
+K58.2 - Mixed irritable bowel syndrome
+K58.8 - Other irritable bowel syndrome
+K58.9 - Irritable bowel syndrome without diarrhea
+G93.3 - Postviral fatigue syndrome
