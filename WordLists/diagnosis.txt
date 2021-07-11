@@ -1,0 +1,519 @@
+﻿A Negative
+A Positive
+AB Negative
+AB Positive
+Abdomen pain
+Abdominal Pain
+abnormal appetite
+Abnormal sensitivity to light
+Aborigine
+Absent-mindedness
+Absent-mindedness or forgetfulness
+Aching of the eyes or behind the eyes
+Acne
+Acne,Acne vulgaris
+Acquired or exertional dyslexia
+ADHD,Attention Deficit Hyperactivity Disorder
+African
+Agnosia - inability to recognize things
+Air Hunger
+Alcohol intolerance
+Alcohol Intolerant
+Allergic Contact Dermatitis
+Allergic Rhinitis (Hay Fever)
+Allergic Rhinitis (Hay Fever),
+Allergies
+Allergies,Food Allergies
+Alzheimer's Disease
+Alzheimer's disease,Alzheimer,,AD
+Amalgam fillings
+Amyotrophic lateral sclerosis (ALS)
+Amyotrophic lateral sclerosis (ALS) Motor Neuron,ALS
+Ankylosing spondylitis,
+anorexia
+Anorexia Nervosa,ANAD, eating disorder
+Anxiety/tension
+Aphantasia ( inability to visualize mental images)
+Appendix removed
+Asperger's Syndrome
+Asthma
+Asthma,
+Ataxia (lack of volunatary muscle control)
+Atherosclerosis
+Atherosclerosis,
+Attention deficit hyperactivity disorder (ADHD)
+Autism,
+Autoimmune Disease
+Autoimmune Disease,Autoimmune
+B Negative
+B Positive
+Bad Air Quality
+Barrett esophagus cancer
+Barrett esophagus cancer,
+Bipolar Disorder,manic-depressive illness,manic depression
+bladder dysfunction
+Blind spots
+Bloating
+Blurred or tunnel vision after standing
+Blurred Vision
+Brain Fog
+Brain Trauma
+Brain Trauma,
+Breastfed
+Bruxism - Jaw cleanching / Teeth grinding
+Butterfly-shaped rash across cheeks and nose
+Can only focus on one thing at a time
+Cancer
+Carbohydrate intolerance
+Carcinoma,
+cardiac arrhythmias
+Celiac Disease
+Celiac Disease,Celiac
+Cerebral Palsy,Cerebral Palsy and Epilepsy
+Chaotic diurnal sleep rhythms (Erratic Sleep)
+Chemical sensitivity
+Chemical Smelling Urine (atypical)
+Chest pain
+Chilled or shivery
+Chills or shivers
+Chinese
+Chronic Fatigue Syndrome
+Chronic Fatigue Syndrome,CFS,ME,Myalgic encephalomyelitis
+Chronic Flatus / Flatulence / gas
+Chronic Halitosis
+Chronic Kidney Disease
+Chronic Kidney Disease,
+Chronic Lyme,Posttreatment Lyme Disease Patients
+Chronic recurrent multifocal osteomyelitis (CRMO).
+Chronic Sinusitis
+Chronic Urticaria (Hives),
+Cognitive/Sensory Overload
+cold extremities
+Cold limbs (e.g. arms, legs hands)
+Colorectal Cancer
+Colorectal Cancer,
+Concern with driving
+Confusion
+Confusion/disorientation
+Constipation
+Constipation and Diarrohea (not explosions)
+Constipation and Explosions (not diarrohea)
+Coronary artery disease ,
+Corticobasal degeneration
+Cortisol disorders or irregularity
+COVID-19,coronavirus,SARS-CoV-2
+Coxsackie
+Crohn's Disease
+Crohn's Disease,CD,Crohn,Crohn,s
+Cushing Syndrome
+Cystic Fibrosis
+cystic fibrosis,cystic,fibrosis
+Daytime drowsiness
+Deep cracks in heels (heel fissures)
+delayed postural hypotension
+Dementia
+Dementia with Lewy bodies
+Depression
+Depression,Depressive Disorder
+Dermatitis (all types)
+Diabetes mellitus Type 2
+Diabetes Type 1
+Diabetes Type 2
+Diarrhea
+Difficulty comprehending Information
+Difficulty expressing thoughts
+Difficulty falling asleep
+Difficulty finding the right word
+Difficulty following things
+Difficulty paying attention for a long period of time
+Difficulty processing information (Understanding)
+Difficulty reading
+Difficulty reading after mild physical or mental activity
+Difficulty reasoning things out
+Difficulty recalling information
+Difficulty retaining information
+Difficulty staying asleep
+Difficulty understanding things
+Disorientation
+Dizziness
+Dizziness or fainting
+Does physical activity make you feel better
+Does physical activity make you feel no effect
+Does physical activity make you feel worse
+Dry Eye (Sicca or Sjogren Syndrome)
+Dry Mouth
+Dysautonomia
+Dyspraxia
+Easily irritated
+Eastern European
+Eczema,
+Electromagnetic Sensitivity (EMF)
+emotional overload
+Enuresis (involuntary urination)
+Epilepsy
+Epilepsy,
+Epstein-Barr virus
+Excessive adrenaline
+Executive Decision Making (Difficulty making)
+exertional dyspnea
+extreme pallor
+Eye pain
+fasciculations
+Fatigue
+Feel unsteady on feet
+Feeling disoriented
+Feeling hot or cold for no reason
+Feeling like you have a high temperature
+Feeling like you have a low temperature
+Feeling like you have a temperature
+Female
+Fever & Chills
+Fevers
+Fibromyalgia
+Fibromyalgia,FM
+Flu-like symptoms
+Forgetting what you are trying to say
+former USSR states
+Frequently get words or numbers in the wrong order
+Frequently loose train of thought
+Frontotemporal dementia
+Functional constipation / chronic idiopathic constipation,constipation
+FUT2 non-secretor
+FUT2 secretor
+GallBladder removed
+gallstone disease (gsd),gallstone
+Gastroesophageal reflux disease (GERD)
+Gastroesophageal reflux disease (Gerd) including Barrett's esophagus,GERD
+General
+general malaise
+Generalized anxiety disorder
+Generalized anxiety disorder,anxiety disorder
+Genitorinary / Nocturia - Urinary issues
+Gingivits / Gum Disease
+Good Air Quality
+Gout
+Gout,
+Gradual
+Graves' disease
+Graves' disease,Grave
+Graying or blacking out after standing
+H
+H1+H3
+H5
+Hair loss
+Hashimoto's thyroiditis,Hashimoto,thyroiditis
+Headaches
+Heart rate increase after standing
+Heavy feeling in arms and legs
+High Altitude Intolerance
+High Anxiety
+High Blood Pressure (Hypertension)
+High Blood Pressure,
+High degree of Empathy before onset
+High Functioning
+Histamine Issues From Ubiome,
+Histamine Issues,Histamine
+Histamine or Mast Cell issues
+hives
+Hot or Cold spells
+Human Herpesvirus 6 (HHV6)
+HV
+HV0+V
+Hypercholesterolemia (High Cholesterol)
+hypercholesterolemia (High Cholesterol),
+Hyperlipidemia (High Blood Fats),
+Hyperphagia (abnormally hunger or desire to eat)
+hypersensitivity to noise
+hypertension (High Blood Pressure,
+Hyperthyroidism
+Hypoglycemia [Low Blood Glucose]
+Hypothyroidism
+I
+Idiopathic hypersomnia (excessive sleepy)
+IgA nephropathy (IgAN),IIgAN, Berger's Disease
+Impaired Depth Perceptions
+Impaired Memory & concentration
+Impairment of concentration
+Inability for deep (delta) sleep
+inability to focus eye/vision
+Inability to tolerate an upright position
+Inappropriate loss of physical and mental stamina,
+Indian (East)
+Indian (West)
+Inflammation (General)
+Inflammation of skin, eyes or joints
+Inflammatory bowel disease
+Inflammatory Bowel Disease (IBD)
+Inflammatory Bowel Disease,IBD
+Insomnia
+Insomnia,(Sleep issues)
+intolerance of extremes of heat and cold
+Irregular heartbeats
+irritable bowel syndrome
+Irritable Bowel Syndrome,irritable,IBS
+J
+Joint hypermobility
+Joint pain
+Juvenile idiopathic arthritis
+Juvenile idiopathic arthritis,
+K
+Keto Diet
+Korean/Japanese
+L
+Laboured breathing
+Lack of appetite
+Less Abnormal Body Posturing or Facial Expressions
+Less Abnormal Tone of Voice
+Less Avoidance of Eye Contact or Poor Eye Contact
+Less Behavioral Disturbances
+Less Decrease in Speaking
+Less deficits in Language Comprehension
+Less Flat or Monotonous Speech
+Less Inappropriate Social Interaction
+Less Intense Focus on One Topic
+Less Lack of Empathy
+Less Repeating Words or Phrases
+Less Repetitive Movements
+Less Self-Abusive Behaviors
+Less Sleep Disturbances
+less than 02 years since onset
+less than 04 years since onset
+less than 08 years since onset
+less than 16 years since onset
+less than 32 years since onset
+Less Unusual Responses to an Unexpected Event
+light-headedness
+Live in house with person with probable microbiome dysfunction
+Liver Cirrhosis
+Liver Cirrhosis,Cirrhosis 
+Long term (chronic) stress
+Long term antibiotics(over 6 months)
+loss of adaptability
+Lost or gained weight without trying
+Lyme
+Male
+Malodor
+marked diurnal fluctuation
+marked weight change
+Mast Cell Dysfunction
+ME/CFS with IBS
+ME/CFS with IBS,
+ME/CFS without IBS
+ME/CFS without IBS,
+medication sensitivities.
+Medium Air Quality
+Mentally tired after the slightest effort
+Metabolic Syndrome
+Metabolic Syndrome,
+Methylation issues (MTHFR)
+Migraine
+Minor Health Issues (a few symptoms only)
+Mold Sensitivity / Exposure
+Mood Disorders
+Mood Disorders,
+Mood Swings
+More Abnormal Body Posturing or Facial Expressions
+More Abnormal Tone of Voice
+More Avoidance of Eye Contact or Poor Eye Contact
+More Behavioral Disturbances
+More Decrease in Speaking
+More deficits in Language Comprehension
+More Flat or Monotonous Speech
+More Inappropriate Social Interaction
+More Intense Focus on One Topic
+More Lack of Empathy
+More Repeating Words or Phrases
+More Repetitive Movements
+More Self-Abusive Behaviors
+More Sleep Disturbances
+More Unusual Responses to an Unexpected Event
+Mouth Sores
+Mucus in the stool
+Multiple Chemical Sensitivity
+Multiple sclerosis (MS
+Multiple Sclerosis,MS
+Multiple system atrophy (MSA),MSA
+Muscle fatigue after mild physical activity
+Muscle Pain (i.e., sensations of pain or aching in your muscles. This does not include weakness or pain in other areas such as joints)
+Muscle weakness
+Myalgia (pain)
+Mycoplasma
+Myoclonic jerks or seizures
+Myofascial pain
+Narcolepsy
+Nausea
+Need to have to focus on one thing at a time
+Need to nap daily
+Need to nap during each day
+Neuralgia
+Neurally mediated hypotension (NMH)
+Neuropathy
+neuropsychiatric disorders (PANDAS, PANS),pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections syndrome
+new food sensitivities
+New trouble with math
+Next-day soreness after everyday activities
+Night Sweats
+No Health Issues
+Non-alcoholic Fatty Liver Disease
+Non-Celiac Gluten Sensitivity
+Nonalcoholic Fatty Liver Disease  (nafld) Nonalcoholic,
+NonCeliac Gluten Sensitivity,Gluten Sensitivity
+Northern European
+O Negative
+O Positive
+Obesity,obese, overweight,weight loss
+Ocassional Tachycardia (Rapid heart beat)
+Official Diagnosis
+Organic Diet
+Orthostatic intolerance
+Osteoarthritis
+Osteoarthritis,OA
+Osteoporosis
+Osteoporosis,Bone loss (porous bome)
+over 31 years since onset
+Pain in Multiple Joints without Swelling or Redness
+Pain or aching in muscles
+Painful menstrual periods
+Paleo Diet
+palpitations
+PANDA (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections)
+Panic Attacks
+PANS (Pediatric Acute-onset Neuropsychiatric Syndrome)
+Paraesthesia (tingling burning of skin)
+Paralysis
+Parasite - Other
+Parasites - Giardia
+Parkinson's disease
+Parkinson's Disease,Parkinson
+Parvovirus
+Periradicular periodontitis inflammatory / chronic lesion around roots of teeth
+Pets
+photophobia (Light Sensitivity)
+Physically drained or sick after mild activity
+Physically tired after minimum exercise
+Poor Appetite
+Poor gut motility
+Poor hand to eye coodination
+Post-exertional malaise
+Post-exertional malaise, feeling worse after doing activities that require either physical or mental exertion
+Post-Traumatic Stress Disorder
+Postural orthostatic tachycardia syndrome (POTS)
+Problems falling asleep
+Problems remembering things
+Problems staying asleep
+Progressive supranuclear palsy
+Prolonged Sleep
+Prosopagnosia ( the inability to recognize the faces of familiar people)
+Proximity triggered Malodor
+Psoriasis
+Psoriasis,
+Q Fever (Coxiella burnetii)
+Racing heart
+Rapid cognitive fatigability,
+Rapid muscular fatigability,
+Rapid muscular fatiguability
+Rash
+Raynaud’s syndrome (Skin discoloration)
+Reactive Hypoglicemia
+recurrent feelings of feverishness
+recurrent flu-like symptoms
+Recurrent Sore throat
+Redness
+Restless Leg
+Rheumatoid arthritis
+rheumatoid arthritis (RA),Spondyloarthritis (SpA),rheumatoid arthritis,spa
+Ringing in the Ears
+Rosacea,
+Salicylate sensitive
+Schizophrenia
+Schizophrenia,
+Seasonal Affective Disorder (SAD)
+Sensitivity to Alcohol
+Sensitivity to mold
+Sensitivity to pain
+Sensitivity to smell/food/medication/chemicals
+Sensitivity to vibrations
+Short-term memory issues
+Shortness of breath
+Sinus issues with headaches
+Sjögren syndrome,Sjögren,Sjogren
+Sleep Apnea
+Sleep Apnea Diagnosis
+Sleep Reversal
+Sleeping all day and staying awake all night
+Slow to react
+Slowed speech
+Slowness of thought
+Small Intestinal Bacterial Overgrowth  (SIBO),SIBO
+Small intestinal bacterial overgrowth (SIBO)
+Snoring (NOT Sleep Apnea
+Sore Throat
+South-East Asian
+Southern European
+Spatial instability and disorientation
+Spectrum (not full)
+Steps Per Day > 16000
+Stiffness and swelling
+Stress / posttraumatic stress disorder,PTSD
+subnormal body temperature
+Sudden
+Sudden and severe episodes of pain
+Sugars cause sleep or cognitive issues
+sweating episodes
+Sweating hands
+Systemic Lupus Erythematosus
+Systemic Lupus Erythematosus,SLE
+T1
+T2
+Temperature fluctuations throughout the day
+Temperature lower than normal
+Tender / sore lymph nodes
+tender lymph nodes
+Tenderness
+Tense muscles
+Thick blood / Hypercoagulation
+Tingling feeling
+Tinnitus (ringing in ear)
+TMJ / Dysfunction of the temporomandibular joint syndrome
+Tonsils removed
+Trimethylaminuria
+Trouble expressing thoughts
+Type 1 Diabetes
+Type 1 Diabetes,
+Type 2 Diabetes
+Type 2 Diabetes,diabetes
+U
+U2
+U3
+U4
+U5
+Ulcerative colitis
+Ulcerative colitis,Uc,Ulcerative,colitis
+Ulcers (mouth)
+Unable to focus vision and/or attention
+Unrefreshed sleep
+Unrefreshing Sleep, that is waking up feeling tired
+Upset stomach
+urinary frequency dysfunction
+Varicella Zoster Virus
+Vascular dementia
+Vasovagal syncope (easy fainting)
+Viral infections with prolonged recovery periods
+Vivid Dreams/Nightmares
+vomiting
+W
+Waking up early in the morning (e.g. 3 AM)
+Walking up early in the morning (e.g. 3AM)
+Weight change
+Word-finding problems
+Work-Physical Active
+Work-Sitting
+Worsening of symptoms after mild mental activity
+Worsening of symptoms after mild physical activity
+worsening of symptoms with stress.
+X
+
+(515 rows affected)
+
+
+Completion time: 2021-07-10T21:32:33.9353221-07:00
