@@ -1,0 +1,42 @@
+﻿Design Notes
+============
+
+This is intended to identified PubMed Ids that contains any key words from a list of key word file.
+
+For MicrobiomePrescription, the master list are the order/family/genus names of bacteria of interest 
+See MicrobiomePrescriptionKeyWords.txt
+
+The highest PMID is saved to a file so a new scan will only look for higher numbers
+
+The new PMIDs are added to a new dated files. 
+
+This is used by a different console application to retrieve the summaries (and full text when available) to a file
+for processing by a text analysis program. Ideally, many of the summaries can be rejected by identifying key words.
+
+	For microbiome, the exclude words included items like sceptic, sewage
+
+It is recommended that the list of PMIDs be stored in a database with Reviewed (true,false)
+
+
+Example Output
+==============
+Starting Scan
+myalgic encephalomyelitis returned 934 items
+long covid returned 415 items
+Full Scan returned 1300 new items listed in Results\20210731135533.pmid
+
+Note that 934 + 414= 1349 items but only 1300 were saved. 49 had both terms,
+
+The output file looks like 
+34327929
+34326841
+34323089
+34321226
+34315375
+34314990
+34312277
+34305428
+34300271
+34300183
+34291062
+
