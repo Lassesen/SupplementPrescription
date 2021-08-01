@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubMedScanner", "PubMedScanner\PubMedScanner.csproj", "{2434C175-73B4-49A2-A28E-C184283D4A03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubMedScanner", "PubMedScanner\PubMedScanner.csproj", "{2434C175-73B4-49A2-A28E-C184283D4A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubMedDownloader", "PubMedDownloader\PubMedDownloader.csproj", "{A8A81FA9-6D71-42E1-9230-1F21F01163B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2434C175-73B4-49A2-A28E-C184283D4A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2434C175-73B4-49A2-A28E-C184283D4A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2434C175-73B4-49A2-A28E-C184283D4A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A81FA9-6D71-42E1-9230-1F21F01163B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A81FA9-6D71-42E1-9230-1F21F01163B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A81FA9-6D71-42E1-9230-1F21F01163B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A81FA9-6D71-42E1-9230-1F21F01163B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

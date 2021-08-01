@@ -1,0 +1,31 @@
+﻿Design Notes
+============
+
+This processed the identified PubMed Ids from PubMed Scanner and downloads the summaries (as XML) into individual files.
+
+The file names are passed as command line args.
+
+
+  <appSettings>
+    <add key="SummaryFolder" value="summaries"/>
+  </appSettings>
+
+Determines where the files are placed. 
+
+These files can now be scanned by textual analysis tools to discard because of stop words, or sent to manual review.
+Ideally, the manual review will be in the context of a program that parses key phrases from the contents
+
+
+The input file looks like 
+34327929
+34326841
+34323089
+34321226
+34315375
+34314990
+34312277
+34305428
+34300271
+34300183
+34291062
+
